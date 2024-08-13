@@ -1,0 +1,7 @@
+streamlit
+tensorflow==2.17.0  # Or another version that's compatible
+Pillow
+numpy
+scikit-learn
+psutil
+setuptools  # This should provide `distutils`
